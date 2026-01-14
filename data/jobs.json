@@ -295,5 +295,27 @@
     "salary": "Confirmed at the time of bank registration depending on specialism and grade.",
     "link": "https://www.healthjobsuk.com/job/UK/Bristol/Bristol/University_Hospitals_Bristol_Weston_NHS_Foundation_Trust/Medical_Dental/Medical_Dental-v3059895",
     "scrapedAt": "2026-01-13T07:43:45.496Z"
+  },
+  {
+    "id": "/job/UK/Warwickshire/Nuneaton/George_Eliot_Hospital_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7724710",
+    "title": "Clinical Fellow in Emergency Medicine",
+    "grade": "NHS Medical and Dental:Local Appointment nodal Point (MTO2&MT03)",
+    "employer": "George Eliot Hospital NHS Trust",
+    "location": "Nuneaton",
+    "speciality": "Emergency Medicine",
+    "salary": "£44,439 - £52,656 per annum pro rata",
+    "link": "https://www.healthjobsuk.com/job/UK/Warwickshire/Nuneaton/George_Eliot_Hospital_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7724710",
+    "scrapedAt": "2026-01-14T11:32:41.141Z"
+  },
+  {
+    "id": "/job/UK/Essex/Chelmsford/Mid_South_Essex_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7734361",
+    "title": "Junior Clinical Fellow - Emergency Medicine",
+    "grade": "Junior Clinical Fellow",
+    "employer": "Mid and South Essex NHS Foundation Trust",
+    "location": "Chelmsford",
+    "speciality": "Emergency Medicine",
+    "salary": "£44,170 Per Annum (Pro Rata for Part Time) + 1A 50% Banding",
+    "link": "https://www.healthjobsuk.com/job/UK/Essex/Chelmsford/Mid_South_Essex_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7734361",
+    "scrapedAt": "2026-01-14T11:32:41.141Z"
   }
 ]
