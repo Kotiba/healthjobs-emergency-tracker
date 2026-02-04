@@ -360,7 +360,7 @@
     "speciality": "Paeds Accident & Emergency",
     "salary": "£44,170 - £50,175 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Paeds_Accident_Emergency/Paeds_Accident_Emergency-v7779114",
-    "scrapedAt": "2026-02-04T11:39:27.469Z"
+    "scrapedAt": "2026-02-04T12:02:41.692Z"
   },
   {
     "id": "/job/UK/Norfolk/Norwich/Norfolk_Norwich_University_Hospitals_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7781838",
@@ -372,5 +372,16 @@
     "salary": "£52,656 per annum pro rata",
     "link": "https://www.healthjobsuk.com/job/UK/Norfolk/Norwich/Norfolk_Norwich_University_Hospitals_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7781838",
     "scrapedAt": "2026-02-03T14:32:11.933Z"
+  },
+  {
+    "id": "/job/UK/Merthyr_Tydfil/Bridgend/Cwm_Taf_Morgannwg_University_Health_Board/Accident_Emergency/Accident_Emergency-v7637720",
+    "title": "Junior Clinical Fellow in Emergency Medicine",
+    "grade": "Junior Clinical Fellow",
+    "employer": "Cwm Taf Morgannwg University Health Board",
+    "location": "Bridgend",
+    "speciality": "Accident and Emergency",
+    "salary": "£46,324 - £60,706 per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/Merthyr_Tydfil/Bridgend/Cwm_Taf_Morgannwg_University_Health_Board/Accident_Emergency/Accident_Emergency-v7637720",
+    "scrapedAt": "2026-02-04T12:02:41.692Z"
   }
 ]
