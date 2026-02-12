@@ -360,7 +360,7 @@
     "speciality": "Paeds Accident & Emergency",
     "salary": "£44,170 - £50,175 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Paeds_Accident_Emergency/Paeds_Accident_Emergency-v7779114",
-    "scrapedAt": "2026-02-12T14:56:07.811Z"
+    "scrapedAt": "2026-02-12T16:02:09.913Z"
   },
   {
     "id": "/job/UK/Norfolk/Norwich/Norfolk_Norwich_University_Hospitals_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7781838",
@@ -393,7 +393,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£50,175 - £67,610 Per Annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7790180",
-    "scrapedAt": "2026-02-12T14:56:07.811Z"
+    "scrapedAt": "2026-02-12T16:02:09.912Z"
   },
   {
     "id": "/job/UK/London/Harrow/London_North_West_University_Healthcare_NHS_Trust/ED_Junior_Clinical_Fellow_with_specialist_interest/ED_Junior_Clinical_Fellow_with_specialist_interest-v7755096",
@@ -427,5 +427,16 @@
     "salary": "£46,324 - £60,706 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/Merthyr_Tydfil/Merthyr_Tydfil/Cwm_Taf_Morgannwg_University_Health_Board/Accident_Emergency/Accident_Emergency-v7676605",
     "scrapedAt": "2026-02-12T08:27:53.191Z"
+  },
+  {
+    "id": "/job/UK/Birmingham_Black_Country/Birmingham/Birmingham_Womens_Childrens_NHS_Foundation_Trust/Emergency_Paediatrics/Emergency_Paediatrics-v7784768",
+    "title": "SHO in Paediatric Emergency Medicine",
+    "grade": "NHS Medical & Dental: Junior Clinical Fellow",
+    "employer": "Birmingham Women's and Children's NHS Foundation Trust",
+    "location": "Birmingham",
+    "speciality": "Emergency Paediatrics",
+    "salary": "£52,656 per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/Birmingham_Black_Country/Birmingham/Birmingham_Womens_Childrens_NHS_Foundation_Trust/Emergency_Paediatrics/Emergency_Paediatrics-v7784768",
+    "scrapedAt": "2026-02-12T16:02:09.912Z"
   }
 ]
