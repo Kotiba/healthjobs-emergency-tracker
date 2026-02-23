@@ -459,7 +459,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£52,656 - £65,048 Basic + Out of Hours Enhancements (As per work schdule) per annum",
     "link": "https://www.healthjobsuk.com/job/UK/Tyne_Wear/Gateshead/Gateshead_Health_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7776110",
-    "scrapedAt": "2026-02-22T23:42:52.004Z"
+    "scrapedAt": "2026-02-23T00:00:49.434Z"
   },
   {
     "id": "/job/UK/London/London/Barts_Health_NHS_Trust/EMERGENCY_CARE_MEDICINE/EMERGENCY_CARE_MEDICINE-v7814535",
@@ -481,6 +481,17 @@
     "speciality": "Paediatric Accident & Emergency",
     "salary": "£50,175 - £67,610 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Paediatric_Accident_Emergency/Paediatric_Accident_Emergency-v7823658",
-    "scrapedAt": "2026-02-22T23:42:52.004Z"
+    "scrapedAt": "2026-02-23T00:00:49.434Z"
+  },
+  {
+    "id": "/job/UK/London/London/Moorfields_Eye_Hospital_NHS_Foundation_Trust/Fellow/Fellow-v7821631",
+    "title": "Clinical Fellow in Accident & Emergency Ophthalmology",
+    "grade": "Fellow",
+    "employer": "Moorfields Eye Hospital NHS Foundation Trust",
+    "location": "London",
+    "speciality": "Fellow",
+    "salary": "£49,333.59 Per Annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/London/Moorfields_Eye_Hospital_NHS_Foundation_Trust/Fellow/Fellow-v7821631",
+    "scrapedAt": "2026-02-23T00:00:49.434Z"
   }
 ]
