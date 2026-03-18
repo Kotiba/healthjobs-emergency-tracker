@@ -547,7 +547,7 @@
     "speciality": "Acute Medicine",
     "salary": "£44,170 - £67,610 on call commitments",
     "link": "https://www.healthjobsuk.com/job/UK/London/E_SR/Homerton_Healthcare_NHS_Foundation_Trust/Acute_Medicine/Acute_Medicine-v7764448",
-    "scrapedAt": "2026-03-18T11:33:57.748Z"
+    "scrapedAt": "2026-03-18T12:36:35.493Z"
   },
   {
     "id": "/job/UK/London/London/Imperial_College_Healthcare_NHS_Trust/Various_Departments/Various_Departments-v7839880",
@@ -591,7 +591,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£44,170 - £67,610 per annum pro rata",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Homerton_Healthcare_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7854856",
-    "scrapedAt": "2026-03-18T11:33:57.748Z"
+    "scrapedAt": "2026-03-18T12:36:35.493Z"
   },
   {
     "id": "/job/UK/Derbyshire/Derby/University_Hospitals_Derby_Burton_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7851478",
@@ -624,7 +624,7 @@
     "speciality": "Accident and Emergency",
     "salary": "£46,324 - £60,706 per annum, pro rata for part time",
     "link": "https://www.healthjobsuk.com/job/UK/Newport/Cwmbran/Aneurin_Bevan_University_Health_Board/Accident_Emergency/Accident_Emergency-v7855746",
-    "scrapedAt": "2026-03-18T11:33:57.748Z"
+    "scrapedAt": "2026-03-18T12:36:35.493Z"
   },
   {
     "id": "/job/UK/London/London/Homerton_Healthcare_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7805590",
@@ -635,7 +635,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£44,170 - £67,610 per annum pro rata",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Homerton_Healthcare_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7805590",
-    "scrapedAt": "2026-03-18T11:33:57.748Z"
+    "scrapedAt": "2026-03-18T12:36:35.493Z"
   },
   {
     "id": "/job/UK/Newport/Cwmbran/Aneurin_Bevan_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7796247",
@@ -646,7 +646,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£46,324 - £60,706 per annum, pro rata for part time",
     "link": "https://www.healthjobsuk.com/job/UK/Newport/Cwmbran/Aneurin_Bevan_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7796247",
-    "scrapedAt": "2026-03-18T11:33:57.748Z"
+    "scrapedAt": "2026-03-18T12:36:35.493Z"
   },
   {
     "id": "/job/UK/Newport/Cwmbran/Aneurin_Bevan_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7874566",
@@ -657,7 +657,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£46,324 - £60,706 per annum, pro rata for part time",
     "link": "https://www.healthjobsuk.com/job/UK/Newport/Cwmbran/Aneurin_Bevan_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7874566",
-    "scrapedAt": "2026-03-18T11:33:57.748Z"
+    "scrapedAt": "2026-03-18T12:36:35.493Z"
   },
   {
     "id": "/job/UK/Surrey/Redhill/Surrey_Sussex_Healthcare_NHS_Trust/Emergency_medicine/Emergency_medicine-v7880497",
@@ -668,6 +668,17 @@
     "speciality": "Emergency medicine",
     "salary": "£44,170 - £52,291 per annum (depending on experience)",
     "link": "https://www.healthjobsuk.com/job/UK/Surrey/Redhill/Surrey_Sussex_Healthcare_NHS_Trust/Emergency_medicine/Emergency_medicine-v7880497",
-    "scrapedAt": "2026-03-18T11:33:57.748Z"
+    "scrapedAt": "2026-03-18T12:36:35.493Z"
+  },
+  {
+    "id": "/job/UK/Merseyside/Prescot/Mersey_West_Lancashire_Teaching_Hospitals_NHS_Trust/Medical_Dental/Medical_Dental-v7881499",
+    "title": "Resident Junior Clinical Fellow in Emergency Medicine",
+    "grade": "NHS Medical & Dental: Junior Clinical Fellow",
+    "employer": "Mersey and West Lancashire Teaching Hospitals NHS Trust",
+    "location": "Prescot",
+    "speciality": "Medical and Dental",
+    "salary": "£52,656 - £65,048 Per Annum",
+    "link": "https://www.healthjobsuk.com/job/UK/Merseyside/Prescot/Mersey_West_Lancashire_Teaching_Hospitals_NHS_Trust/Medical_Dental/Medical_Dental-v7881499",
+    "scrapedAt": "2026-03-18T12:36:35.493Z"
   }
 ]
