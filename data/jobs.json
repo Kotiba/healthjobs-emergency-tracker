@@ -789,7 +789,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£37,737 - £71,814 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/Cardiff/Cardiff/Cardiff_Vale_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7888776",
-    "scrapedAt": "2026-04-07T11:16:17.147Z"
+    "scrapedAt": "2026-04-07T12:09:28.586Z"
   },
   {
     "id": "/job/UK/Cardiff/Cardiff/Cardiff_Vale_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7888972",
@@ -800,7 +800,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£46,324 - £71,814 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/Cardiff/Cardiff/Cardiff_Vale_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7888972",
-    "scrapedAt": "2026-04-07T11:16:17.147Z"
+    "scrapedAt": "2026-04-07T12:09:28.586Z"
   },
   {
     "id": "/job/UK/Essex/Chelmsford/Mid_South_Essex_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7914525",
@@ -823,5 +823,16 @@
     "salary": "£52,656 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/Tooting_London/St_Georges_University_Hospitals_NHS_Foundation_Trust/Emergency_Department/Emergency_Department-v7918577",
     "scrapedAt": "2026-04-07T11:16:17.147Z"
+  },
+  {
+    "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7919205",
+    "title": "Trust Doctor (eqv to ST3+) in Emergency Medicine",
+    "grade": "MN37",
+    "employer": "Barts Health NHS Trust",
+    "location": "London",
+    "speciality": "Emergency Medicine",
+    "salary": "£50,175 - £67,610 per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7919205",
+    "scrapedAt": "2026-04-07T12:09:28.586Z"
   }
 ]
