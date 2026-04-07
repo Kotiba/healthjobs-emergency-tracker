@@ -789,7 +789,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£37,737 - £71,814 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/Cardiff/Cardiff/Cardiff_Vale_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7888776",
-    "scrapedAt": "2026-04-07T08:51:32.241Z"
+    "scrapedAt": "2026-04-07T10:12:28.111Z"
   },
   {
     "id": "/job/UK/Cardiff/Cardiff/Cardiff_Vale_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7888972",
@@ -800,7 +800,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£46,324 - £71,814 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/Cardiff/Cardiff/Cardiff_Vale_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v7888972",
-    "scrapedAt": "2026-04-07T08:51:32.241Z"
+    "scrapedAt": "2026-04-07T10:12:28.111Z"
   },
   {
     "id": "/job/UK/Essex/Chelmsford/Mid_South_Essex_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7914525",
@@ -812,5 +812,16 @@
     "salary": "£44,170 - £57,397 Per Annum (Pro Rata for Part Time) + 1A 50% Banding",
     "link": "https://www.healthjobsuk.com/job/UK/Essex/Chelmsford/Mid_South_Essex_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7914525",
     "scrapedAt": "2026-04-05T22:42:36.875Z"
+  },
+  {
+    "id": "/job/UK/London/Tooting_London/St_Georges_University_Hospitals_NHS_Foundation_Trust/Emergency_Department/Emergency_Department-v7918577",
+    "title": "Clinical Fellow in Emergency Medicine",
+    "grade": "NHS Medical & Dental: Junior Clinical Fellow",
+    "employer": "St George's University Hospitals NHS Foundation Trust",
+    "location": "Tooting, London",
+    "speciality": "Emergency Department",
+    "salary": "£52,656 per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/Tooting_London/St_Georges_University_Hospitals_NHS_Foundation_Trust/Emergency_Department/Emergency_Department-v7918577",
+    "scrapedAt": "2026-04-07T10:12:28.111Z"
   }
 ]
