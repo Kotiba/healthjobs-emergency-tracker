@@ -1086,7 +1086,7 @@
     "speciality": "Fellow",
     "salary": "£51,060.27 Per Annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Moorfields_Eye_Hospital_NHS_Foundation_Trust/Fellow/Fellow-v8044011",
-    "scrapedAt": "2026-06-10T06:07:39.253Z"
+    "scrapedAt": "2026-06-10T10:34:36.211Z"
   },
   {
     "id": "/job/UK/London/NA/Croydon_Health_Services_NHS_Trust/ED/ED-v7912995",
@@ -1097,7 +1097,7 @@
     "speciality": "ED",
     "salary": "£54,499 per annum + London weighting",
     "link": "https://www.healthjobsuk.com/job/UK/London/NA/Croydon_Health_Services_NHS_Trust/ED/ED-v7912995",
-    "scrapedAt": "2026-06-10T06:07:39.253Z"
+    "scrapedAt": "2026-06-10T10:34:36.211Z"
   },
   {
     "id": "/job/UK/Wiltshire/Salisbury/Salisbury_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8027442",
@@ -1108,6 +1108,17 @@
     "speciality": "Emergency Medicine",
     "salary": "£54,499 - £67,325 per annum pro rata if part time",
     "link": "https://www.healthjobsuk.com/job/UK/Wiltshire/Salisbury/Salisbury_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8027442",
-    "scrapedAt": "2026-06-10T06:07:39.253Z"
+    "scrapedAt": "2026-06-10T10:34:36.211Z"
+  },
+  {
+    "id": "/job/UK/Merthyr_Tydfil/Bridgend/Cwm_Taf_Morgannwg_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v8030305",
+    "title": "Junior Clinical Fellow in Emergency Medicine",
+    "grade": "Junior Clinical Fellow",
+    "employer": "Cwm Taf Morgannwg University Health Board",
+    "location": "Bridgend",
+    "speciality": "Emergency Medicine",
+    "salary": "£47,946 - £62,831 per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/Merthyr_Tydfil/Bridgend/Cwm_Taf_Morgannwg_University_Health_Board/Emergency_Medicine/Emergency_Medicine-v8030305",
+    "scrapedAt": "2026-06-10T10:34:36.211Z"
   }
 ]
