@@ -1185,7 +1185,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£45,715 - £69,976 per annum pro rata",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Homerton_Healthcare_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8119531",
-    "scrapedAt": "2026-07-08T07:16:11.225Z"
+    "scrapedAt": "2026-07-08T09:56:38.682Z"
   },
   {
     "id": "/job/UK/Derbyshire/Derby/University_Hospitals_Derby_Burton_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8106164",
@@ -1197,5 +1197,16 @@
     "salary": "£54,499 + OOH",
     "link": "https://www.healthjobsuk.com/job/UK/Derbyshire/Derby/University_Hospitals_Derby_Burton_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8106164",
     "scrapedAt": "2026-07-07T12:04:55.147Z"
+  },
+  {
+    "id": "/job/UK/Cumbria/Carlisle/North_Cumbria_Integrated_Care_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8139753",
+    "title": "Clinical Fellow in Emergency Medicine",
+    "grade": "NHS Medical & Dental: Junior Clinical Fellow",
+    "employer": "North Cumbria Integrated Care NHS Foundation Trust",
+    "location": "Carlisle",
+    "speciality": "Emergency Medicine",
+    "salary": "£54,499 - £76,582 Dependant on experience",
+    "link": "https://www.healthjobsuk.com/job/UK/Cumbria/Carlisle/North_Cumbria_Integrated_Care_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8139753",
+    "scrapedAt": "2026-07-08T09:56:38.682Z"
   }
 ]
