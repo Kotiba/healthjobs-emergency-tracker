@@ -1185,7 +1185,7 @@
     "speciality": "Emergency Medicine",
     "salary": "£45,715 - £69,976 per annum pro rata",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Homerton_Healthcare_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8119531",
-    "scrapedAt": "2026-07-10T05:42:18.039Z"
+    "scrapedAt": "2026-07-10T15:03:20.736Z"
   },
   {
     "id": "/job/UK/Derbyshire/Derby/University_Hospitals_Derby_Burton_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8106164",
@@ -1219,5 +1219,27 @@
     "salary": "£54,499 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Whittington_Health_NHS_Trust/Emergency_medicine/Emergency_medicine-v8143189",
     "scrapedAt": "2026-07-10T01:17:25.352Z"
+  },
+  {
+    "id": "/job/UK/London/London/Moorfields_Eye_Hospital_NHS_Foundation_Trust/Clinical_Fellow/Clinical_Fellow-v8146777",
+    "title": "Clinical Fellow in General Ophthalmology, Urgent Care and Cataract",
+    "grade": "NHS Medical & Dental: Clinical Fellow",
+    "employer": "Moorfields Eye Hospital NHS Foundation Trust",
+    "location": "London",
+    "speciality": "Clinical Fellow",
+    "salary": "£51,060.27 plus £10,100 Recruitment Premium per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/London/Moorfields_Eye_Hospital_NHS_Foundation_Trust/Clinical_Fellow/Clinical_Fellow-v8146777",
+    "scrapedAt": "2026-07-10T15:03:20.736Z"
+  },
+  {
+    "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Paediatric_Emergency_Medicine/Paediatric_Emergency_Medicine-v8147642",
+    "title": "Trust Doctor (eqv to ST5+) in Paediatric Emergency Medicine",
+    "grade": "MN37",
+    "employer": "Barts Health NHS Trust",
+    "location": "London",
+    "speciality": "Paediatric Emergency Medicine",
+    "salary": "£56,763 - £69,976 Per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Paediatric_Emergency_Medicine/Paediatric_Emergency_Medicine-v8147642",
+    "scrapedAt": "2026-07-10T15:03:20.736Z"
   }
 ]
