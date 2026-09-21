@@ -1361,7 +1361,7 @@
     "speciality": "Major Trauma",
     "salary": "£45,715 - £69,976 per annum +LDN Weighting + 1A banding (50%)",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Imperial_College_Healthcare_NHS_Trust/Major_Trauma/Major_Trauma-v8287791",
-    "scrapedAt": "2026-09-21T05:01:24.487Z"
+    "scrapedAt": "2026-09-21T10:47:02.731Z"
   },
   {
     "id": "/job/UK/Gwynedd/Bodelwyddan/Betsi_Cadwaladr_University_Health_Board/Emergency_Department/Emergency_Department-v8182518",
@@ -1373,5 +1373,16 @@
     "salary": "£56,925 - £80,730 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/Gwynedd/Bodelwyddan/Betsi_Cadwaladr_University_Health_Board/Emergency_Department/Emergency_Department-v8182518",
     "scrapedAt": "2026-09-20T21:47:05.686Z"
+  },
+  {
+    "id": "/job/UK/Birmingham_Black_Country/Birmingham/Birmingham_Womens_Childrens_NHS_Foundation_Trust/Emergency_Paediatrics/Emergency_Paediatrics-v8255817",
+    "title": "Junior Clinical Fellow in Paediatric Emergency Medicine",
+    "grade": "NHS Medical & Dental: Junior Clinical Fellow",
+    "employer": "Birmingham Women's and Children's NHS Foundation Trust",
+    "location": "Birmingham",
+    "speciality": "Emergency Paediatrics",
+    "salary": "£55,355 per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/Birmingham_Black_Country/Birmingham/Birmingham_Womens_Childrens_NHS_Foundation_Trust/Emergency_Paediatrics/Emergency_Paediatrics-v8255817",
+    "scrapedAt": "2026-09-21T10:47:02.731Z"
   }
 ]
