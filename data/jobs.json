@@ -1406,5 +1406,27 @@
     "salary": "£54,499 per annum",
     "link": "https://www.healthjobsuk.com/job/UK/Birmingham_Black_Country/Wolverhampton/The_Royal_Wolverhampton_NHS_Trust/Clinical_Fellow_Emergency_Services/Clinical_Fellow_Emergency_Services-v8170010",
     "scrapedAt": "2026-09-30T08:57:17.088Z"
+  },
+  {
+    "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8339474",
+    "title": "Trust Doctor (eqv to ST4+) in Critical Care Unit",
+    "grade": "MN37",
+    "employer": "Barts Health NHS Trust",
+    "location": "London",
+    "speciality": "Critical Care",
+    "salary": "£54,121 - £69,976 Per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8339474",
+    "scrapedAt": "2026-10-02T15:39:02.595Z"
+  },
+  {
+    "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8339742",
+    "title": "Trust Grade (eqv in ST4+) in Neurocritical Care Research",
+    "grade": "MN37",
+    "employer": "Barts Health NHS Trust",
+    "location": "London",
+    "speciality": "Critical Care",
+    "salary": "£54,121 - £69,976 Per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8339742",
+    "scrapedAt": "2026-10-02T15:39:02.595Z"
   }
 ]
