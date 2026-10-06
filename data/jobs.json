@@ -1420,13 +1420,24 @@
   },
   {
     "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8339742",
-    "title": "Trust Grade (eqv in ST4+) in Neurocritical Care Research",
+    "title": "Trust Doctor (eqv in ST4+) in Neurocritical Care Research",
     "grade": "MN37",
     "employer": "Barts Health NHS Trust",
     "location": "London",
     "speciality": "Critical Care",
     "salary": "£54,121 - £69,976 Per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8339742",
-    "scrapedAt": "2026-10-06T06:54:06.837Z"
+    "scrapedAt": "2026-10-06T14:05:15.338Z"
+  },
+  {
+    "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8345491",
+    "title": "Trust Doctor (eqv to ST4+) in Critical Care Unit",
+    "grade": "MN37",
+    "employer": "Barts Health NHS Trust",
+    "location": "London",
+    "speciality": "Critical Care",
+    "salary": "£54,121 - £69,976 Per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8345491",
+    "scrapedAt": "2026-10-06T14:05:15.338Z"
   }
 ]
