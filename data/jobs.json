@@ -1427,7 +1427,7 @@
     "speciality": "Critical Care",
     "salary": "£54,121 - £69,976 Per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8339742",
-    "scrapedAt": "2026-10-08T15:40:03.578Z"
+    "scrapedAt": "2026-10-08T20:57:30.636Z"
   },
   {
     "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8345491",
@@ -1449,6 +1449,17 @@
     "speciality": "Critical Care",
     "salary": "£54,121 - £69,976 Per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Critical_Care/Critical_Care-v8347618",
-    "scrapedAt": "2026-10-08T15:40:03.578Z"
+    "scrapedAt": "2026-10-08T20:57:30.636Z"
+  },
+  {
+    "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v8354588",
+    "title": "Trust Doctor (eqv to ST3+) in Emergency Medicine",
+    "grade": "MN37",
+    "employer": "Barts Health NHS Trust",
+    "location": "London",
+    "speciality": "Emergency Medicine",
+    "salary": "£51,931 - £69,976 Per annum",
+    "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v8354588",
+    "scrapedAt": "2026-10-08T20:57:30.636Z"
   }
 ]
