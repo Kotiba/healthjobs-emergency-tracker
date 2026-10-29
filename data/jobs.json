@@ -1475,13 +1475,24 @@
   },
   {
     "id": "/job/UK/London/London/Barts_Health_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v8393953",
-    "title": "Physicians (eqv to ST3+) in Pre-hospital Care",
+    "title": "Trust Doctor (eqv to ST3+) in Pre-hospital Care",
     "grade": "MN37",
     "employer": "Barts Health NHS Trust",
     "location": "London",
     "speciality": "Emergency Medicine",
     "salary": "£51,931 - £69,976 Per annum",
     "link": "https://www.healthjobsuk.com/job/UK/London/London/Barts_Health_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v8393953",
-    "scrapedAt": "2026-10-29T06:19:01.329Z"
+    "scrapedAt": "2026-10-29T13:34:45.242Z"
+  },
+  {
+    "id": "/job/UK/Essex/Basildon/Mid_South_Essex_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8348480",
+    "title": "Emergency Department Clinical Fellow",
+    "grade": "Clinical Fellow",
+    "employer": "Mid and South Essex NHS Foundation Trust",
+    "location": "Basildon",
+    "speciality": "Emergency Medicine",
+    "salary": "£54,499 Per Annum (Pro Rata for Part Time) + 50% 1A Banding",
+    "link": "https://www.healthjobsuk.com/job/UK/Essex/Basildon/Mid_South_Essex_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v8348480",
+    "scrapedAt": "2026-10-29T13:34:45.242Z"
   }
 ]
